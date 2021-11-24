@@ -25,8 +25,6 @@ public class javax {
         button.setFocusable(false);
         button.setLayout(null);
         button.addActionListener(e -> button.setBackground(Color.red));
-        
-
 
         JFrame frame = new JFrame("My Frame");
         frame.setDefaultCloseOperation(3); // close
